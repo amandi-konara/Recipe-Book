@@ -48,7 +48,7 @@ const filteredRecipes = computed(() => {
         v-model="selectedCuisine"
         class="px-4 py-2.5 rounded-xl border border-gray-300 dark:border-gray-600 dark:bg-gray-700 dark:text-white shadow-sm focus:outline-none focus:ring-2 focus:ring-green-400 transition"
       >
-        <option value="" disabled>All Cuisines</option>
+        <option value="" >All Cuisines</option>
         <option v-for="cuisine in cuisines" :key="cuisine" :value="cuisine">
           {{ cuisine }}
         </option>
