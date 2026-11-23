@@ -2,7 +2,23 @@
 
 A responsive recipe browsing app built with **Vue 3 + TypeScript**. Search and filter recipes, view step-by-step instructions, log in, and save your favourites to a personal bookmarks page. Includes light and dark modes.
 
-<!-- Add a live demo link and 2–3 screenshots here, e.g. ![Home](docs/screenshots/home.png) -->
+<!-- Add a live demo link here once deployed, e.g. **🔗 Live demo:** https://your-app.vercel.app -->
+
+<p align="center">
+  <img src="docs/screenshots/dashboard.png" width="49%" alt="Home page with search bar, cuisine filter and recipe grid">
+  <img src="docs/screenshots/dark-mode.png" width="49%" alt="Home page in dark mode filtered to Italian recipes">
+</p>
+<p align="center"><em>Home page with search and cuisine filter, in light and dark mode</em></p>
+
+<p align="center">
+  <img src="docs/screenshots/bookmarks.png" width="80%" alt="Bookmarks page showing saved recipes">
+</p>
+<p align="center"><em>Bookmarks: saved recipes, available after login</em></p>
+
+<p align="center">
+  <img src="docs/screenshots/recipe-details.png" width="60%" alt="Recipe detail page with ingredients and numbered instructions">
+</p>
+<p align="center"><em>Recipe details: times, servings, rating, ingredients and step-by-step instructions</em></p>
 
 ---
 
